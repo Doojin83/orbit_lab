@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Publications"
-nav_order: 5
+nav_order: 4
 ---
 
 ## Selected Publications
