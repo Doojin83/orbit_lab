@@ -1,9 +1,7 @@
 
 title: "ORBIT LAB"
 description: "One-chip Realization of Boundless Integrated Technology"
-theme: just-the-docs
-
-url: "https://doojin83.github.io"
+remote_theme: just-the-docs/just-the-docs
 baseurl: "/orbit_lab"
 
 color_scheme: light
