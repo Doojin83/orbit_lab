@@ -1,35 +1,36 @@
 title: "ORBIT LAB"
 description: "One-chip Realization of Boundless Integrated Technology"
-baseurl: "/orbit_lab" # 리포지토리 이름
-url: "https://doojin83.github.io" # 사용자 GitHub 페이지 주소
+baseurl: "/orbit_lab"  # 리포지토리 이름
+url: "https://doojin83.github.io"  # 사용자 도메인
 
-theme: minima  # 기본 제공되는 깔끔한 테마
+theme: minima
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
 
-# 네비게이션 링크 설정 (선택)
+# ✅ _pages 디렉토리 인식 설정
 collections:
   pages:
     output: true
     permalink: /:path/
+    directory: _pages
 
-# 사이드바/헤더 메뉴로 쓸 수 있는 링크
+# ✅ default 값 지정
 defaults:
   - scope:
       path: ""
       type: pages
     values:
-      layout: default
+      layout: page
       permalink: /:basename/
 
-# 메뉴 링크 (수동 구성 시)
+# ✅ 내비게이션 메뉴 (선택)
 navigation:
   - title: "About"
-    url: /pages/about/
+    url: /about/
   - title: "Research"
-    url: /pages/research/
+    url: /research/
   - title: "Join"
-    url: /pages/join/
+    url: /join/
   - title: "Publications"
-    url: /pages/publications/
+    url: /publications/
