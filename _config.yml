@@ -1,4 +1,35 @@
+title: "ORBIT LAB"
+description: "One-chip Realization of Boundless Integrated Technology"
+baseurl: "/orbit_lab" # 리포지토리 이름
+url: "https://doojin83.github.io" # 사용자 GitHub 페이지 주소
+
+theme: minima  # 기본 제공되는 깔끔한 테마
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+# 네비게이션 링크 설정 (선택)
 collections:
   pages:
     output: true
     permalink: /:path/
+
+# 사이드바/헤더 메뉴로 쓸 수 있는 링크
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      permalink: /:basename/
+
+# 메뉴 링크 (수동 구성 시)
+navigation:
+  - title: "About"
+    url: /pages/about/
+  - title: "Research"
+    url: /pages/research/
+  - title: "Join"
+    url: /pages/join/
+  - title: "Publications"
+    url: /pages/publications/
