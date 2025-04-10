@@ -15,3 +15,10 @@ We specialize in:
   - Reliable Circuits
 
 🔍 Learn more in the pages above!
+
+---
+
+### 🔗 Menu
+- [About ORBIT LAB](/orbit_lab/about/)
+- [Research Topics](/orbit_lab/research/)
+- [Join Us](/orbit_lab/join/)
