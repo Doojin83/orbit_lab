@@ -1,24 +1,16 @@
+
 ---
 layout: home
 title: "Welcome to ORBIT LAB"
-permalink: /
+nav_order: 1
 ---
 
-Welcome to the **ORBIT LAB** (One-chip Realization of Boundless Integrated Technology)  
+Welcome to the **ORBIT LAB**  
+(One-chip Realization of Boundless Integrated Technology)  
 led by **Prof. Doojin Jang** at Cheongju University.
 
-We specialize in:
+Explore our research on:
 
-- Analog Integrated Circuit Design
-  - Power Management (DC-DC, LDO)
-  - Biomedical Applications
-  - Reliable Circuits
-
-🔍 Learn more in the pages above!
-
----
-
-### 🔗 Menu
-- [About ORBIT LAB](/orbit_lab/about/)
-- [Research Topics](/orbit_lab/research/)
-- [Join Us](/orbit_lab/join/)
+- Analog Power Management
+- Biomedical Analog ICs
+- Reliable Circuit Design
