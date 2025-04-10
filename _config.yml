@@ -6,11 +6,9 @@ baseurl: "/orbit_lab"
 
 color_scheme: light
 
-aux_links:
-  "Cheongju University":
-    - "https://www.cju.ac.kr/"
-
-nav_external_links:
-  - title: GitHub
-    url: https://github.com/doojin83
-    hide_icon: false
+nav:
+  - Home: index.md
+  - About: pages/about.md
+  - Research: pages/research.md
+  - Join Us: pages/join.md
+  - Publications: pages/publications.md
