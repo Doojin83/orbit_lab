@@ -1,6 +1,5 @@
-
 ---
-layout: home
+layout: default
 title: "Welcome to ORBIT LAB"
 nav_order: 1
 ---
