@@ -1,12 +1,15 @@
-
 ---
-title: "Research"
-nav_order: 3
+title: "About"
+nav_order: 2
 ---
 
-## Research Areas
+## About ORBIT LAB
 
-- High-efficiency DC-DC Converters
-- Low-Dropout Regulators (LDOs)
-- Analog Circuits for Biomedical Applications
-- Circuit Reliability and Variability Compensation
+ORBIT (One-chip Realization of Boundless Integrated Technology) LAB  
+is led by Prof. Doojin Jang at Cheongju University.
+
+We focus on:
+
+- Power Management ICs (DC-DC, LDO)
+- Biomedical Analog Circuits
+- Reliable, Robust Analog Design
