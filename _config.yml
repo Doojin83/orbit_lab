@@ -1,36 +1,18 @@
+
 title: "ORBIT LAB"
 description: "One-chip Realization of Boundless Integrated Technology"
-baseurl: "/orbit_lab"  # 리포지토리 이름
-url: "https://doojin83.github.io"  # 사용자 도메인
+theme: just-the-docs
 
-theme: minima
-markdown: kramdown
-plugins:
-  - jekyll-seo-tag
+url: "https://doojin83.github.io"
+baseurl: "/orbit_lab"
 
-# ✅ _pages 디렉토리 인식 설정
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-    directory: _pages
+color_scheme: light
 
-# ✅ default 값 지정
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: page
-      permalink: /:basename/
+aux_links:
+  "Cheongju University":
+    - "https://www.cju.ac.kr/"
 
-# ✅ 내비게이션 메뉴 (선택)
-navigation:
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /research/
-  - title: "Join"
-    url: /join/
-  - title: "Publications"
-    url: /publications/
+nav_external_links:
+  - title: GitHub
+    url: https://github.com/doojin83
+    hide_icon: false
