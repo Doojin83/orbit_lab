@@ -1,5 +1,5 @@
-
 ---
+layout: default
 title: "Join Us"
 nav_order: 4
 ---
