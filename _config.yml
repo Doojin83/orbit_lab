@@ -16,9 +16,9 @@ nav:
 footer_content: |
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="text-align: left;">
-      <strong>© 2025 ORBIT LAB</strong><br>
-      Cheongju University<br>
-      [Tel] +82-43-229-8443</a>
+      <strong>© 2025 ORBIT LAB</strong> (Department of System Semiconductor Engineering, Cheongju University)<br>
+      <strong>Contact</strong><br>
+      [Tel] +82-43-229-8443<br>
       <a href="mailto:doojinjang@cju.ac.kr">[E-mail] doojinjang at cju.ac.kr</a>
     </div>
     <img src="/orbit_lab/assets/img/cju_ui.png" alt="CJU Logo" style="height: 50px;">
