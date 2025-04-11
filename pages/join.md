@@ -1,13 +1,7 @@
 ---
 layout: default
-title: "Join Us"
-nav_order: 4
+title: "Chip Gallery"
+nav_order: 5
 ---
 
-## Join ORBIT LAB
-
-We are looking for passionate undergraduate and graduate students!
-
-### Contact
-- **Prof. Doojin Jang**
-- 📧 doojinjang@cju.ac.kr
+## Chip Gallery
