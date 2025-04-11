@@ -13,9 +13,6 @@ nav:
   - Join Us: pages/join.md
   - Publications: pages/publications.md
 
-exclude:
-  - pages/email_policy.md
-
 just_the_docs:
   footer_content: ""
   footer_custom: footer_custom.html
