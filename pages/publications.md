@@ -6,14 +6,12 @@ nav_order: 4
 
 # Publications
 
-<br>
 
 ## 📝 Journals
 
 - **D. Jang**, J. Kim, U. Lee, J. Suh, and W. Jung, "Techniques for Analyzing and Reducing Voltage Conversion Ratio Transition Losses of Capacitive DC–DC Converters for Fast-DVS-Enabled Systems", *IEEE Transactions on Power Electronics (TPEL)*, Oct. 2021.
 - H. Shin, J. Kim, **D. Jang**, D. Cho, Y. Jung, H. Cho, U. Lee, C. Kim, S. Ha, and M. Je, "An Energy-Efficient Three-Stage Amplifier Achieving a High Unity-Gain Bandwidth for Large Capacitive Loads Without Using a Compensation Zero", *IEEE Solid-State Circuits Letters (SSCL)*, Nov. 2020.
 
-<br>
 
 ## 🎤 Conferences
 
