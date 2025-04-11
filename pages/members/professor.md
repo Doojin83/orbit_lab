@@ -18,7 +18,6 @@ nav_order: 1
   </div>
 </div>
   <br>
-  <br>
     <strong>Education</strong><br>
     - Ph.D. in Electrical Engineering, KAIST, Korea (2021)<br>
     - M.S. in Information and Communication Engineering, GIST, Korea (2014)<br>
