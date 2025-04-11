@@ -29,5 +29,4 @@ We reject the unauthorized collection of e-mail addresses posted on this website
 1. No one shall collect e-mail addresses from the Internet homepages on which the intention of rejecting the collection of e-mail addresses is explicitly indicated, by means of programs and other technical devices that make it possible to collect e-mail addresses automatically.<br>
 2. No one shall sell or distribute e-mail addresses that are collected in violation of paragraph (1).<br>
 3. No one shall use the e-mail addresses for transmitting information with the knowledge that the prohibition is laid on the collection, sale and distribution of such e-mail addresses under paragraphs (1) and (2).<br>
-<br>
-If you have any questions or concerns, please contact us at [doojinjang at cju.ac.kr](mailto:doojinjang@cju.ac.kr).</p>
+</p>
