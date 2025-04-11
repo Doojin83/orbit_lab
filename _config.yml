@@ -13,21 +13,6 @@ nav:
   - Join Us: pages/join.md
   - Publications: pages/publications.md
 
-footer_content: |
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="text-align: left; font-size: 12px;">
-      <strong>Contact</strong><br>
-      [Tel] +82-43-229-8443<br>
-      <a href="mailto:doojinjang@cju.ac.kr">[E-mail] doojinjang at cju.ac.kr</a>
-    </div>
-    <img src="/orbit_lab/assets/img/cju_ui.jpg" alt="CJU Logo" style="height: 100px;">
-  </div>
-
-
-sass:
-  load_paths:
-    - _sass
-  style: compressed
-
 just_the_docs:
-  custom_css: assets/css/custom.css
+  footer_content: ""
+  footer_custom: footer_custom.html
