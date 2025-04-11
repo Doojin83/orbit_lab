@@ -9,7 +9,7 @@ nav_order: 1
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="/orbit_lab/assets/img/professor.jpg" alt="Doojin Jang" width="120" style="border-radius: 10px;">
+  <img src="/orbit_lab/assets/img/doojinjang.jpg" alt="Doojin Jang" width="120" style="border-radius: 10px;">
 
   <div>
     <strong><a href="ANZ5fUMVkcGA5NTfq8a4DOH_huf0R6IAM8KcyrwyzDnbP70NLZZv5ymmSklsNbmAV81jtnBKK4ldVphxRJD0Hi1nYjigoLMJB3ByeofzlskKIrbJ3VUHewhV8UzUtdQtrkJpYW3lGgem6fl8m2y1F1KFbQ" target="_blank">Doojin Jang, Ph.D.</a></strong><br>
