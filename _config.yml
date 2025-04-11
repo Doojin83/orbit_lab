@@ -13,8 +13,8 @@ nav:
     - Students: pages/members/students.md
     - Alumni: pages/members/alumni.md
   - Research: pages/research.md
-  - Join Us: pages/join.md
   - Publications: pages/publications.md
+  - Chip Gallery: pages/chipgallery.md
 
 just_the_docs:
   footer_content: ""
