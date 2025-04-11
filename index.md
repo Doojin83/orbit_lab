@@ -9,8 +9,8 @@ nav_order: 1
 </p>
 
 <p align="center">
-  <span style="font-size: 20px; color: blue; font-weight: bold;">
-Welcome to the **ORBIT LAB**  
+  <span style="font-size: 20px; font-weight: bold;">
+Welcome to the ORBIT LAB
   </span>
 </p>
 
