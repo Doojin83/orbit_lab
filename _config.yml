@@ -8,7 +8,7 @@ color_scheme: light
 
 nav:
   - Home: index.md
-  - Members: 
+  - Members: pages/members.md
     - Professor: pages/members/professor.md
     - Students: pages/members/students.md
     - Alumni: pages/members/alumni.md
