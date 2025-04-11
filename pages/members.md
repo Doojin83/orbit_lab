@@ -4,7 +4,7 @@ title: Members
 nav_order: 2
 has_children: true
 permalink: /members/
-toc: false
+has_toc: false
 ---
 
 # Members
