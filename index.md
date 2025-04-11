@@ -8,9 +8,11 @@ nav_order: 1
   <img src="/orbit_lab/assets/img/home_banner.png" alt="ORBIT LAB Home Banner" width="80%">
 </p>
 
+<p align="center">
+  <span style="font-size: 20px; color: blue;">
 Welcome to the **ORBIT LAB**  
-(One-chip Realization of Boundless Integrated Technology)  
-led by **Prof. Doojin Jang** at Cheongju University.
+  </span>
+</p>
 
 ## 📰 Latest News
 
