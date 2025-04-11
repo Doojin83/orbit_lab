@@ -2,6 +2,7 @@
 layout: default
 title: Rejection of Unauthorized E-mail Address Collection
 nav_order: 99
+nav_exclude: true
 ---
 
 # Rejection of Unauthorized E-mail Address Collection
