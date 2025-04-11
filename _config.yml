@@ -8,7 +8,7 @@ color_scheme: light
 
 nav:
   - Home: index.md
-  - About: pages/about.md
+  - Members: pages/members.md
   - Research: pages/research.md
   - Join Us: pages/join.md
   - Publications: pages/publications.md
