@@ -19,4 +19,5 @@ nav:
 just_the_docs:
   footer_content: ""
   footer_custom: footer_custom.html
+  header_custom: header_custom.html
   has_toc: false
