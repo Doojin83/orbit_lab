@@ -25,6 +25,6 @@ nav_order: 1
     - B.S. in Electrical Engineering and Computer Science, Kyungpook National University, 2010<br>
     <br>
     <strong>Professional Experiences</strong><br>
-    - Power Management IP Design Engineer, Samsung Electronics, Foundry Business<br>
-    - SoC Front-End Design Engineer, LG Electronics, CTO Division<br>
-    - Process Improvement Engineer, SK Hynix Semiconductor, Manufacturing Division<br>
+    - Power Management IP Design Engineer, Samsung Electronics, Foundry Business (2021-2025)<br>
+    - SoC Front-End Design Engineer, LG Electronics, CTO Division (2014-2015)<br>
+    - Process Improvement Engineer, SK Hynix Semiconductor, Manufacturing Division (2009-2012)<br>
