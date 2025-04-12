@@ -10,7 +10,7 @@ nav_order: 1
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <img src="/orbit_lab/assets/img/doojinjang.jpg" alt="Doojin Jang" style="width: 120px; border-radius: 8px">
   <div>
-    <strong><a href="ANZ5fUMVkcGA5NTfq8a4DOH_huf0R6IAM8KcyrwyzDnbP70NLZZv5ymmSklsNbmAV81jtnBKK4ldVphxRJD0Hi1nYjigoLMJB3ByeofzlskKIrbJ3VUHewhV8UzUtdQtrkJpYW3lGgem6fl8m2y1F1KFbQ" target="_blank">Doojin Jang, Ph.D.</a></strong><br>
+    <strong><a href="https://scholar.google.com/citations?user=97u1EEMAAAAJ&hl=ko" target="_blank">Doojin Jang, Ph.D.</a></strong><br>
     <strong>Assistant Professor</strong><br>
     <strong>Dept. of System Semiconductor Engineering</strong><br>
     <strong>Cheongju University, Cheongju, Korea</strong><br>
