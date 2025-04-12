@@ -9,8 +9,11 @@ nav_order: 1
 </p>
 
 <p align="center">
-  <span style="font-size: 20px; font-weight: bold;">
-Welcome to the ORBIT LAB
+  <span style="font-size: 28px; font-weight: bold;">
+Welcome to the ORBIT LAB!</span><br>
+    <br>
+  <span style="font-size: 18px; color: red">
+If you're an undergraduate or future graduate student eager to explore research with ORBIT LAB, feel free to contact us anytime.
   </span>
 </p>
 
