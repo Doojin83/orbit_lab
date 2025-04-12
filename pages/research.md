@@ -4,6 +4,8 @@ title: "Research"
 nav_order: 3
 ---
 
+# Research in ORBIT LAB
+
 ## Research Overview
 
 Our research focuses on advanced power and reliability solutions for next-generation semiconductor systems. As digital technologies evolve—driven by smart environments, biomedical innovation, and massive data processing—the need for efficient, compact, and dependable circuit design is more critical than ever.
