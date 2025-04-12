@@ -16,9 +16,9 @@ nav_order: 4
 
 ## 🎤 Conferences
 
-- **D. Jang**, D. Ko, D.W. Kim, J. Kim, B. Moon, and W. Jung, "A Single/Dual-Output Switched-Capacitor DC-DC Converter with Geometrically Arranged Soft VCR Transitions", *IEEE Asian Solid-State Circuits Conference (A-SSCC)*, Nov. 2024
-- H.-H. Bae, J.-H. Cho, K. Kim, S. Shin, **D. Jang**, J.-H. Yang, and H.-S. Kimm, "A 7V/μs-DVS Class-G Digital-Shunt-Aided Buck Voltage Regulator Achieving a 7% Dynamic-Efficiency Drop at a 600kHz DVS Occurrence Frequency in 28nm CMOS", *IEEE Custom Integrated Circuits Conference (CICC)*, Apr. 2024
-- H. Shin, **D. Jang**, G.-G. Kang, J. Kim, C. Kim, S. Ha, and M. Je, "A 96.6%-Efficiency Continuous-Input-Current Hybrid Dual-Path Buck-Boost Converter with Single-Mode Operation and Non-Stopping Output Current Delivery", *IEEE Symposium on VLSI Circuits (SOVC)*, Jun. 2021
+- **D. Jang**, D. Ko, D.W. Kim, J. Kim, B. Moon, and W. Jung, "A Single/Dual-Output Switched-Capacitor DC-DC Converter with Geometrically Arranged Soft VCR Transitions", *IEEE Asian Solid-State Circuits Conference (A-SSCC)*, Nov. 2024.
+- H.-H. Bae, J.-H. Cho, K. Kim, S. Shin, **D. Jang**, J.-H. Yang, and H.-S. Kimm, "A 7V/μs-DVS Class-G Digital-Shunt-Aided Buck Voltage Regulator Achieving a 7% Dynamic-Efficiency Drop at a 600kHz DVS Occurrence Frequency in 28nm CMOS", *IEEE Custom Integrated Circuits Conference (CICC)*, Apr. 2024.
+- H. Shin, **D. Jang**, G.-G. Kang, J. Kim, C. Kim, S. Ha, and M. Je, "A 96.6%-Efficiency Continuous-Input-Current Hybrid Dual-Path Buck-Boost Converter with Single-Mode Operation and Non-Stopping Output Current Delivery", *IEEE Symposium on VLSI Circuits (SOVC)*, Jun. 2021.
 - **D. Jang**, U. Lee, J. Kim, J. Suh, and W. Jung, "An On-Chip Dual-Output Switched-Capacitor DC- DC Converter with Fine-Grained Output Control", *IEEE International Symposium on Circuits and Systems (ISCAS)*, May. 2021.
 - U. Lee, **D. Jang**, W. Jung, and M. Je, "Input-Adaptive and Regulated Multi-Output Power Management Unit for Wireless Power Reception and Distribution in Multi-Unit Implantable Devices", *IEEE Asian Solid-State Circuits Conference (A-SSCC)*, Nov. 2020.
 - H. Shin, J. Kim, **D. Jang**, D. Cho, Y. Jung, H. Cho, U. Lee, C. Kim, S. Ha, and M. Je, "A 0.0046mm2 6.7μW Three-Stage Amplifier Capable of Driving 0.5-to-1.9nF Capacitive Load with >0.68MHz GBW without Compensation Zero", *IEEE Symposium on VLSI Circuits (SOVC)*, Aug. 2020.
