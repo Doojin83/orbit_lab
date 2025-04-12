@@ -12,7 +12,6 @@ nav_order: 5
 <span style="font-style: italic;"><strong>IEEE ASSCC 2024</strong></span>
 </div>
 <br>
-<br>
 
 ## 2021
 <div style="text-align: center;">
