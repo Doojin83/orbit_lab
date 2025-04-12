@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 ## Research Overview
-![Research Image](/assets/img/research_intro.png)
+
 Our research focuses on advanced power and reliability solutions for next-generation semiconductor systems. As digital technologies evolve—driven by smart environments, biomedical innovation, and massive data processing—the need for efficient, compact, and dependable circuit design is more critical than ever.
 We develop high-capacity, high-efficiency power management architectures for data-intensive applications such as AI, HPC, and autonomous systems. In the biomedical domain, we pursue reliable power solutions that combine energy efficiency with patient safety. We also study robust chip design through innovations in testability, power integrity, ESD protection, and PVT variation compensation.
 By combining performance, efficiency, and reliability, our goal is to enable scalable and sustainable semiconductor solutions for a smarter and safer world.
