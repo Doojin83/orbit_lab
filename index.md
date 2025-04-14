@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <p align="center">
-  <img src="/orbit_lab/assets/img/home_banner.png" alt="ORBIT LAB Home Banner" width="90%" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" /><br>
+  <img src="/orbit_lab/assets/img/home_banner.png" alt="ORBIT LAB Home Banner" width="100%" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" /><br>
 </p>
 
 <p align="center">
