@@ -8,9 +8,9 @@ nav_order: 3
 
 ## Research Overview
 
-Our research focuses on advanced power and reliability solutions for next-generation semiconductor systems. As digital technologies evolve—driven by smart environments, biomedical innovation, and massive data processing—the need for efficient, compact, and dependable circuit design is more critical than ever.
-We develop high-capacity, high-efficiency power management architectures for data-intensive applications such as AI, HPC, and autonomous systems. In the biomedical domain, we pursue reliable power solutions that combine energy efficiency with patient safety. We also study robust chip design through innovations in testability, power integrity, ESD protection, and PVT variation compensation.
-By combining performance, efficiency, and reliability, our goal is to enable scalable and sustainable semiconductor solutions for a smarter and safer world.
+At ORBIT LAB, we pursue the vision of realizing all aspects of the world—intelligence, connectivity, health, and energy—within a single chip. The name ORBIT stands for One-chip Realization of Boundless Integrated Technology, reflecting our mission to explore the full potential of integration in semiconductor systems.
+Driven by the rapid evolution of digital technologies—from AI and HPC to smart environments and biomedical systems—we focus on power and reliability solutions that are not only high-performing, but also efficient, compact, and dependable. Our research includes high-capacity and high-efficiency power architectures for data-intensive platforms, robust circuit design techniques for safe and accurate biomedical devices, and foundational technologies such as testability, power integrity, ESD protection, and PVT resilience.
+Inspired by the stability and precision of an orbit, ORBIT LAB is committed to building scalable and sustainable semiconductor solutions. Through integrated and forward-thinking engineering, we aim to bring boundless functionality into a single chip—turning vision into silicon.
 
 
 ## Main Research Areas
