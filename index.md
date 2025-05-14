@@ -12,7 +12,7 @@ nav_order: 1
   <span style="font-size: 24px; font-weight: bold;">
 Welcome to
     <br>
-    <span style="font-size: 32px;">ORBIT</span>
+    <span style="font-size: 36px; color: red">ORBIT</span>
     <br>
     (<span style="font-weight: bold; color: red">O</span>ne-chip <span style="font-weight: bold; color: red">R</span>ealization of <span style="font-weight: bold; color: red">B</span>oundless <span style="font-weight: bold; color: red">I</span>ntegrated <span style="font-weight: bold; color: red">T</span>echnology)
     <br>
