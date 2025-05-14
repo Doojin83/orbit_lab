@@ -12,7 +12,11 @@ nav_order: 1
   <span style="font-size: 24px; font-weight: bold;">
 Welcome to
     <br>
-    ORBIT (<span style="font-weight: bold; color: red">O</span>ne-chip <span style="font-weight: bold; color: red">R</span>ealization of <span style="font-weight: bold; color: red">B</span>oundless <span style="font-weight: bold; color: red">I</span>ntegrated <span style="font-weight: bold; color: red">T</span>echnology) LAB!</span><br>
+    ORBIT
+    <br>
+    (<span style="font-weight: bold; color: red">O</span>ne-chip <span style="font-weight: bold; color: red">R</span>ealization of <span style="font-weight: bold; color: red">B</span>oundless <span style="font-weight: bold; color: red">I</span>ntegrated <span style="font-weight: bold; color: red">T</span>echnology)
+    <br>
+    LAB!</span><br>
     <br>
   <span style="font-size: 16px; color: red">
 If you're an undergraduate or future graduate student eager to explore research with ORBIT LAB, feel free to contact us anytime.
