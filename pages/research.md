@@ -3,9 +3,10 @@ layout: default
 title: "Research"
 nav_order: 3
 ---
-<p align="center">
-  <img src="/orbit_lab/assets/img/research.jpg" alt="Research Image" width="100%" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" /><br>
-</p>
+<div style="text-align: center;">
+<img src="/orbit_lab/assets/img/research.jpg" alt="research" width="1000" /><br>
+</div>
+<br>
 
 # Research in ORBIT LAB
 
