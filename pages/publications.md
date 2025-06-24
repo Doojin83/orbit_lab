@@ -27,3 +27,8 @@ nav_order: 4
 - H. Jeon, J.-S. Bang, Y. Jung, T. Lee, Y. Jeon, S.-T. Koh, J. choi, **D. Jang**, S. Hong, and M. Je, "A 3.9μW, 81.3dB SNDR, DC-coupled, Time-based Neural Recording IC with Degeneration R-DAC for Bidirectional Neural Interface in 180nm CMOS", *IEEE Asian Solid-State Circuits Conference (A-SSCC)*, Nov. 2018.
 - **D. Jang**, T. Lee, H. Jeon, S. Koh, J. Choi, J. Lee, and M. Je, "16-Channel High-CMRR Neural-Recording Amplifiers Using Common-Made-Tracking Power Supply Rails", *IEEE International Symposium on Radio-Frequency Integration Technology (RFIT)*, Nov. 2018.
 - T. Lee, **D. Jang**, Y. Jung, H. Jeon, S. Hong, S. Han, J.-U. Chu, J. Lee, and M. Je, "A neural recording amplifier based on adaptive SNR optimization technique for long-term implantation", *IEEE Biomedical Circuits and Systems Conference (BioCAS)*, Oct. 2017.
+
+
+## Patents
+
+- **D. Jang**, H. Kim, J. Yang, S. Yoo, H. Bae, "Hybrid buck converter and operating method thereof", US20250125724A1, Apr. 2025.
