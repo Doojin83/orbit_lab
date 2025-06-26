@@ -8,8 +8,10 @@ nav_order: 2
 # Students
 
 **Current Members**
-<!-- - Name 1 – M.S. Student (Joined: 2024) -->
-<!--- Name 2 – Ph.D. Student (Joined: 2025) -->
+- Vu Hoai Lam – M.S. Student (Joined: 2025)
 
-**Interns / Undergraduate Researchers**
-<!--- Name 3 – B.S. Intern (2025.01~2025.06) -->
+**Undergraduate Researchers**
+- Sunghoon Kang (Joined: 2025)
+- Yeeun Kim (Joined: 2025)
+- Ajung Lee (Joined: 2025)
+- Tran Loc (Joined: 2025)
