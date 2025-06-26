@@ -7,7 +7,7 @@ nav_order: 2
 
 # Students
 
-**Current Members**
+**Graduate Students**
 - Vu Hoai Lam – M.S. Student (Joined: 2025)
 
 **Undergraduate Researchers**
