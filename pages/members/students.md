@@ -11,7 +11,7 @@ nav_order: 2
 - Vu Hoai Lam – M.S. Student (Joined: 2025)
 
 **Undergraduate Researchers**
-- Sunghoon Kang (Joined: 2025)
-- Yeeun Kim (Joined: 2025)
-- Ajung Lee (Joined: 2025)
-- Tran Loc (Joined: 2025)
+- Sunghoon Kang (Joined in 2025)
+- Yeeun Kim (Joined in 2025)
+- Ajung Lee (Joined in 2025)
+- Tran Loc (Joined in 2025)
