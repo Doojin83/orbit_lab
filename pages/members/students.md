@@ -8,7 +8,7 @@ nav_order: 2
 # Students
 
 **Graduate Students**
-- Vu Hoai Lam – M.S. Student (Joined: 2025)
+- Vu Hoai Lam – M.S. Student (Joined in 2025)
 
 **Undergraduate Researchers**
 - Sunghoon Kang (Joined in 2025)
