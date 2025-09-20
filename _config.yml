@@ -15,6 +15,7 @@ nav:
   - Research: pages/research.md
   - Publications: pages/publications.md
   - Chip Gallery: pages/chipgallery.md
+  - Lectures: pages/lectures.md
 
 just_the_docs:
   footer_content: ""
