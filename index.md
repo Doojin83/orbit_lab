@@ -19,7 +19,7 @@ Welcome to
     LAB!</span><br>
     <br>
   <span style="font-size: 16px; color: red">
-If you're an undergraduate or future graduate student eager to explore research with ORBIT LAB, feel free to contact us anytime.
+ORBIT LAB과 함께하고 싶다면 언제든지 연락 주세요! (E-mail or 전화)
   </span>
 </p>
 
