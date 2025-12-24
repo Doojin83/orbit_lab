@@ -3,6 +3,8 @@ layout: default
 title: "Lectures"
 nav_order: 6
 ---
+## Winter 2025
+- CMOS OP-AMP/LDO 설계 및 검증 실습
 
 ## Fall 2025
 - 회로이론실험2
