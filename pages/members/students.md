@@ -16,5 +16,4 @@ nav_order: 2
 **Undergraduate Researchers**
 - Sunghoon Kang (Joined in 2025)
 - Yeeun Kim (Joined in 2025)
-- Ajung Lee (Joined in 2025)
 - Tran Loc (Joined in 2025)
