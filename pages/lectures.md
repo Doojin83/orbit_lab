@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lectures"
-nav_order: 6
+nav_order: 7
 ---
 ## Spring 2026
 - 회로이론1
