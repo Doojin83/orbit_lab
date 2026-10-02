@@ -16,6 +16,7 @@ nav_order: 4
 
 
 ## Conferences
+- L. Tran, H. L. Vu, Y. Kim, S. Kang, B. Kwak, and **D. Jang**, "A Switched-Capacitor Neural Stimulator with Phase-Onset Current Regulation and Calibration-Free Charge Balancing for High-Impedance Electrodes", *IEEE International Conference on Consumer Electronics Asia (ICCE-Asia)*, Oct. 2026. (Accepted)
 - 강성훈, 김예은, 김형석, 박대희, 김태홍, **장두진**, "DC 서보 루프를 적용한 CCII 기반 전류모드 계측 증폭기," *한국전기전자학회 하계학술대회*, 2026년 8월, 제주대학교
 - **D. Jang**, D. Ko, D.W. Kim, J. Kim, B. Moon, and W. Jung, "A Single/Dual-Output Switched-Capacitor DC-DC Converter with Geometrically Arranged Soft VCR Transitions", *IEEE Asian Solid-State Circuits Conference (A-SSCC)*, Nov. 2024.
 - H.-H. Bae, J.-H. Cho, K. Kim, S. Shin, **D. Jang**, J.-H. Yang, and H.-S. Kimm, "A 7V/μs-DVS Class-G Digital-Shunt-Aided Buck Voltage Regulator Achieving a 7% Dynamic-Efficiency Drop at a 600kHz DVS Occurrence Frequency in 28nm CMOS", *IEEE Custom Integrated Circuits Conference (CICC)*, Apr. 2024.
