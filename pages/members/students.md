@@ -8,14 +8,18 @@ nav_order: 2
 # Students
 
 **Graduate Students**
-- Vu Hoai Lam – M.S. Student (3nd semester)
-- Taehong Kim - M.S. Student (1st semester)
-- Daehee Park - M.S. Student (1st semester)
-- Hyeongseok Kim - M.S. Student (1st semester)
+- Vu Hoai Lam – M.S. Student (4th semester)
+- 김태홍 - M.S. Student (2nd semester)
+- 박대희 - M.S. Student (2nd semester)
+- 김형석 - M.S. Student (2nd semester)
 
 **Undergraduate Researchers**
-- Sunghoon Kang (Joined in 2025)
-- Yeeun Kim (Joined in 2025)
-- Tran Loc (Joined in 2025)
-- Yujin Choi (Joined in 2026)
-- Jinhyeok Choi (Joined in 2026)
+- 강성훈 (Junior, Joined in 2025)
+- 김예은 (Junior, Joined in 2025)
+- Tran Loc (Junior, Joined in 2025)
+- 곽범승 (Junior, Joined in 2026)
+- 최유진 (Senior, Joined in 2026)
+- 최진혁 (Senior, Joined in 2026)
+- 김보배 (Sophomore, Joined in 2026)
+- 황은비 (Sophomore, Joined in 2026)
+- 주재형 (Sophomore, Joined in 2026)
